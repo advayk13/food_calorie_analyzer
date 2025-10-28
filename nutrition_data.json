@@ -1,0 +1,13 @@
+{
+  "Bread": {"calories": 265, "protein": 9, "fats": 3.2, "carbs": 49},
+  "Dairy product": {"calories": 150, "protein": 8, "fats": 5, "carbs": 12},
+  "Dessert": {"calories": 350, "protein": 4, "fats": 18, "carbs": 45},
+  "Egg": {"calories": 155, "protein": 13, "fats": 11, "carbs": 1},
+  "Fried food": {"calories": 400, "protein": 7, "fats": 25, "carbs": 35},
+  "Meat": {"calories": 250, "protein": 26, "fats": 15, "carbs": 0},
+  "Noodles-Pasta": {"calories": 350, "protein": 12, "fats": 5, "carbs": 70},
+  "Rice": {"calories": 130, "protein": 2.7, "fats": 0.3, "carbs": 28},
+  "Seafood": {"calories": 220, "protein": 20, "fats": 5, "carbs": 0},
+  "Soup": {"calories": 100, "protein": 3, "fats": 2, "carbs": 15},
+  "Vegetable-Fruit": {"calories": 80, "protein": 2, "fats": 0.5, "carbs": 18}
+}

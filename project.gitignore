@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Datasets
+dataset/
+balanced_dataset/
+
+# Model weights
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
