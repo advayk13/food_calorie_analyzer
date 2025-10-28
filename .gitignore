@@ -1,0 +1,7 @@
+# Ignore virtual environment and large model files
+venv/
+*.h5
+__pycache__/
+*.pkl
+*.ipynb_checkpoints
+.DS_Store
